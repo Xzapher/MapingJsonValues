@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Aceite de oliva",
+        "PrecioBase": 9.98,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 2,
+        "Nombre": "Pan",
+        "PrecioBase": 0.70,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 3,
+        "Nombre": "Mortadela",
+        "PrecioBase": 3.25,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 4,
+        "Nombre": "Queso rallado",
+        "PrecioBase": 1.75,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 5,
+        "Nombre": "Fuet",
+        "PrecioBase": 2.56,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 6,
+        "Nombre": "Tomate frito",
+        "PrecioBase": 1.24,
+        "Categoria": "Alimentos"
+    },
+    {
+        "ID": 7,
+        "Nombre": "Pizza atun",
+        "PrecioBase": 2.95,
+        "Categoria": "Alimentos"
+    }
+]
